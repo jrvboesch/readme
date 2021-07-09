@@ -3,3 +3,5 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jrvboesch&layout=compact&theme=radical" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jrvboesch&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
