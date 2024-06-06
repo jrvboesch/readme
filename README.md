@@ -2,13 +2,11 @@
   <tr>
     <th>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrvboesch" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrvboesch&theme=dark" />
       </a>
     </th>
     <th>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jrvboesch&layout=compact&theme=radical" />
       </a>
     </th>
@@ -16,8 +14,7 @@
   <tr>
     <th colspan="2">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=jrvboesch&theme=onedark" />
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=jrvboesch&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" />
       </a>
     </th>
   </tr>
